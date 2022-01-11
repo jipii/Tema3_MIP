@@ -1,0 +1,27 @@
+[
+	{
+		"nume": "Coresi",
+		"N": 620,
+		"S": 640,
+		"V": 635,
+		"E": 620,
+		"magazine":
+		[
+			{"nume": "Zara", "N": 624, "S": 625, "V": 631,"E": 630, "tip": "imbracaminte"},
+			{"nume": "HelpNet", "N": 627, "S": 628, "V": 631,"E": 630, "tip": "farmacie"},
+			{"nume": "Starbucks", "N": 630, "S": 631, "V": 625,"E": 624, "tip": "cafenea"}
+		]
+	},
+	{
+		"nume": "Republicii",
+		"N": 600,
+		"S": 610,
+		"V": 664,
+		"E": 661,
+		"magazine":
+		[
+			{"nume": "Catena", "N": 602, "S": 603, "V": 664,"E": 663, "tip": "farmacie"},
+			{"nume": "Cato", "N": 607, "S": 608, "V": 662,"E": 661, "tip": "imbracaminte"}
+		]
+	}
+]
